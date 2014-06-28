@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             string smss = "Heelo";
+            string test = "test";
         }
     }
 }
